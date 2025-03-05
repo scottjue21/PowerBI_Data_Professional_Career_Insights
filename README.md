@@ -14,11 +14,12 @@ The project aims to offer insights into the diverse career paths, salary scales,
 - **DAX**: Used for complex calculations, particularly for deriving average salary figures.
 
 ## The Analysis
-The dashboard features several key visualizations:
-- **Salary Insights by Role**: Demonstrates salary variations across job roles and regions, highlighting significant disparities.
-- **Programming Language Preferences**: A stacked column chart shows the popularity of programming languages among different roles.
-- **Demographic Distribution**: A treemap provides a visual breakdown of the geographic distribution of the survey participants.
-- **Sentiment Gauges**: Gauge visualizations reflect general sentiments about salary satisfaction and work/life balance.
+The dashboard features several key visualizations, each designed to provide insights into various aspects of data professionals' careers:
+- **Salary Insights by Role**: Demonstrates salary variations across job roles and regions, highlighting significant disparities. For instance, data scientists in the United States earn an average salary of $139,050, compared to the global average of $93,780 for the same role.
+- **Programming Language Preferences**: A stacked column chart shows the popularity of programming languages among different roles, with Python emerging as the most favored. This chart visually represents Python dominating the field, reflecting its critical role in data science and analytics.
+- **Demographic Distribution**: A treemap provides a visual breakdown of the geographic distribution of the survey participants, functioning also as an interactive filter for specific country-based data analysis. This allows viewers to see the proportion of respondents from each country, offering insights into the global reach and diversity of the data profession.
+- **Sentiment Gauges**: Gauge visualizations reflect general sentiments about salary satisfaction and work/life balance, providing a quick snapshot of professional contentment across the survey. These gauges indicate average happiness levels with salary and work conditions, serving as a barometer for current industry sentiment.
+- **Donut Chart for Gender-Based Salary Comparison**: This visualization highlights the average salary by gender, revealing that globally, females earn an average of $55,190 compared to $53,460 for males. However, in the U.S., males earn more on average than females, highlighting regional salary disparities.
 
 ## What I Learned
 - **Data Standardization**: The importance of standardizing free-entry fields became evident as it greatly simplified the analysis, especially for job roles, countries, industries, and programming languages. This step helped in avoiding the complexities associated with diverse textual data, enabling more straightforward aggregations and comparisons.
