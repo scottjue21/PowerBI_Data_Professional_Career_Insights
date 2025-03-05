@@ -21,9 +21,9 @@ The dashboard features several key visualizations:
 - **Sentiment Gauges**: Gauge visualizations reflect general sentiments about salary satisfaction and work/life balance.
 
 ## What I Learned
-- **Data Standardization**: The crucial role of cleaning and standardizing data to facilitate effective analysis.
+- **Data Standardization**: The importance of standardizing free-entry fields became evident as it greatly simplified the analysis, especially for job roles, countries, industries, and programming languages. This step helped in avoiding the complexities associated with diverse textual data, enabling more straightforward aggregations and comparisons.
 - **Advanced DAX Application**: Gained proficiency in DAX for running sophisticated calculations across large datasets.
-- **Visual Storytelling**: Enhanced skills in using visual elements to narrate data stories compellingly and understandably.
+- **Visual Storytelling**: Enhanced skills in using visual elements to narrate data stories compellingly and understandably in order to engage with different stakeholder through data-driven storytelling.
 
 ## Conclusion
 ### Insights
