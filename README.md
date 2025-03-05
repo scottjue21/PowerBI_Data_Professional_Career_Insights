@@ -3,6 +3,8 @@
 ## Introduction
 This Power BI dashboard provides a detailed visualization of career-related data from a survey of 630 data professionals. It covers a range of data points from job titles and salaries to sentiments about various aspects of their careers.
 
+![Interactive Dashboard](link-to-your-gif.gif)
+
 ## Background
 The project aims to offer insights into the diverse career paths, salary scales, and professional sentiments of data professionals worldwide. By leveraging data obtained from a comprehensive survey, the dashboard facilitates a deeper understanding of factors that influence career satisfaction and progression in the data science field.
 
