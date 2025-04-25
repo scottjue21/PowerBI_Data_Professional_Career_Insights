@@ -6,7 +6,7 @@ This Power BI dashboard provides a detailed visualization of career-related data
 ![Interactive Dashboard](/assets/animation.gif)
 
 ## Background
-The project aims to offer insights into the diverse career paths, salary scales, and professional sentiments of data professionals worldwide. By leveraging data obtained from a comprehensive survey, the dashboard facilitates a deeper understanding of factors that influence career satisfaction and progression in the data science field.
+The project aims to offer insights into the diverse career paths, salary scales, and professional sentiments of data professionals worldwide. By leveraging data obtained from a comprehensive survey conducted by Alex Freberg, the dashboard facilitates a deeper understanding of factors that influence career satisfaction and progression in the data science field.
 
 ## Tools Used
 - **Microsoft Power BI**: For creating interactive dashboards and visualizations.
